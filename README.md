@@ -1,4 +1,4 @@
-# korok
+# Baniee
 
-### kawaii fox bot
-http://twitter.com/korok
+### kawaii bunny bot
+http://twitter.com/baniee
